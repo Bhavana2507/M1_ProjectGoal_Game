@@ -1,5 +1,5 @@
-Structural
+#Structural
     
-Behavioural
+#Behavioural
     Flow chart
     Use case diagrams
