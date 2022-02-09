@@ -16,6 +16,3 @@ High level requirements:
 Low level requirements:
     Two player.
     Two inputs cross and circle.
-
-
-
