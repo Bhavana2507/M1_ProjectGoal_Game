@@ -16,3 +16,15 @@ High level requirements:
 Low level requirements:
     Two player.
     Two inputs cross and circle.
+
+SWOT:
+    Strength - Easy to play, Short games, Age friendly, Entertaining 
+    Weakness - Maximum of 2 players only can be allowed.
+    Oppertunities - Simple user friendly games which will be easier to attract people of all age groups.
+    Threats - No additional improvements can be added.
+
+4W's and 1H:
+    WHAT - Cross and Circle inputs
+    WHERE - Office, School, Home
+    WHEN - When Bored
+    HOW - Two players take simultaneous chances and mark their inputs on a 3*3 grid board.    
