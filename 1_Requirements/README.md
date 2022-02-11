@@ -23,6 +23,7 @@
     Threats - No additional improvements can be added.
 
 # 4W's and 1H:
+    WHO - Two players.
     WHAT - Cross and Circle inputs
     WHERE - Office, School, Home
     WHEN - When Bored
