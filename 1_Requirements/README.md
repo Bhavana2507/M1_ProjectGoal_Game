@@ -10,11 +10,16 @@
     The program should draw the game board, ask the user for the coordinates of the next mark, change the players after every successful move, and pronounce the winner.
 
 # High level requirements:
-    Condition statements for multiple inputs.
+    Code for 3*3 grid.
+    Values placed on the grid.
+    Ask for players input.
+    Check for winner, loser or draw.
 
 # Low level requirements:
-    Two player.
-    Two inputs cross and circle.
+    Two players.
+    3*3 grid.
+    Two inputs (cross and circle).
+    Results declaration.
 
 # SWOT:
     Strength - Easy to play, Short games, Age friendly, Entertaining 
@@ -23,7 +28,11 @@
     Threats - No additional improvements can be added.
 
 # 4W's and 1H:
+    WHO - Two players.
     WHAT - Cross and Circle inputs
     WHERE - Office, School, Home
     WHEN - When Bored
     HOW - Two players take simultaneous chances and mark their inputs on a 3*3 grid board.    
+
+# REFERENCE:
+https://papergames.io/en/tic-tac-toe#:~:text=Tic%20Tac%20Toe%20online%20games%20%28also%20called%20Noughts,played%20and%20enjoyed%20by%20many%20adults%2C%20as%20well.
