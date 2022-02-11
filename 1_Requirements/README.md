@@ -10,11 +10,16 @@
     The program should draw the game board, ask the user for the coordinates of the next mark, change the players after every successful move, and pronounce the winner.
 
 # High level requirements:
-    Condition statements for multiple inputs.
+    Code for 3*3 grid.
+    Values placed on the grid.
+    Ask for players input.
+    Check for winner, loser or draw.
 
 # Low level requirements:
-    Two player.
-    Two inputs cross and circle.
+    Two players.
+    3*3 grid.
+    Two inputs (cross and circle).
+    Results declaration.
 
 # SWOT:
     Strength - Easy to play, Short games, Age friendly, Entertaining 
