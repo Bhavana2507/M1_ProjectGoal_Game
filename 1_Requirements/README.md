@@ -28,3 +28,6 @@
     WHERE - Office, School, Home
     WHEN - When Bored
     HOW - Two players take simultaneous chances and mark their inputs on a 3*3 grid board.    
+
+# REFERENCE:
+https://papergames.io/en/tic-tac-toe#:~:text=Tic%20Tac%20Toe%20online%20games%20%28also%20called%20Noughts,played%20and%20enjoyed%20by%20many%20adults%2C%20as%20well.
