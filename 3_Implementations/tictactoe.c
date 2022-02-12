@@ -70,6 +70,7 @@ int main()
     getch();
     return 0;
     }
+    
 int result()
 {
     if (XO[1] == XO[2] && XO[2] == XO[3])
