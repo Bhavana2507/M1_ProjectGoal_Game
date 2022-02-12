@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
+#include<string.h>
 
 char XO[10]={'0','1','2','3','4','5','6','7','8','9'};
 int result();
@@ -15,7 +15,7 @@ int main()
     capt = (capt%2)?1:2;
     printf("ENTER YOUR CHOICE PLAYER %d: ",capt);
     scanf("%d",&opt);
-    point = (player==2)? 'X' : 'O' ;
+    point = (capt==2)? 'X' : 'O' ;
     if (opt == 1 && XO[1] == '1')
             XO[1] = point;
             
@@ -46,17 +46,17 @@ int main()
         {
             printf("WRONG MOVE");
             capt--;
-            getch()
+            getch();
         }    
         a=result();
         capt++;
     }while(a==-1);
     grid();
     if(a==1)
-    printf("==>\aPLAYER %d WINS",--capt);
+    printf("~~>\aPLAYER %d WINS",--capt);
     else
-    printf("==>\aMATCH DRAW");
-    getch()
+    printf("~~>\aMATCH DRAW");
+    getch();
     return 0;
     }
 int result()
@@ -97,9 +97,10 @@ int result()
 void grid()
 {
     system("cls");
-    printf("\n\n\tTic Tac Toe\n\n");
-
-    printf("Player 1 (X)  -  Player 2 (O)\n\n\n");
+    printf("\n\n\tWELCOME TO THE GAME\n");
+    printf("\n\tThe rules are simple here\n");
+    printf("\n\tEvery player will take a simultaneous chance and the person to place all three inputs in a single row wins\n");
+    printf("\n\nPlayer 1 -> (X)  -  Player 2 -> (O)\n\n\n");
 
 
     printf("     |     |     \n");

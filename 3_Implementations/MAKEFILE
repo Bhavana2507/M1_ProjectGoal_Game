@@ -1,0 +1,8 @@
+#TargetName : Dependencies
+#<TAB>commands
+
+	Build : main.c tictactoe.c
+		gcc main.c tictactoe.c -o tictactoe.out
+		
+	Run : tictactoe.out
+		./tictactoe.out
