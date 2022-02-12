@@ -3,16 +3,17 @@
     The game can be won from any starting position in numerous combinations and possibilities.
 
 # Functions
-    It is a two input game.
-    First input is a cross.
-    Second input is a circle.
-    
-Memory Map
+    Draw the 3*3 grid.
+    Obtain input from players.
+    Provide simultaneous chances.
+    Declare the winner.
 
 # Structures
-    3*3 grid game
+    3*3 grid game.
+    9 positions.
 
 # Compilation and steps
-    It takes three identical in a row to win the game
+    Ask players to proceed with placing "X" or "O" in the positions of their wish.
+    It takes three identical in a row to win the game.
+    Declare the winner.
 
-Github Workflow for Build
