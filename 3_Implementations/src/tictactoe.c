@@ -13,6 +13,7 @@
 #include<string.h>
 #include "tictactoe.h"
 
+
   
 int result(char XO[])
 {
